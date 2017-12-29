@@ -1,0 +1,39 @@
+O que está funcionando totalmente no seu projeto?
+-Todo o codigo feito está funcionando.
+
+O que está funcionando parcialmente no seu projeto?
+-Nada
+
+O que não está funcionando no seu projeto?
+-Nada
+
+O que faltou fazer no seu projeto?
+-Utilizar JavaScript para mostrar as cidades ao selecionar o estado.
+
+Ao desenvolver sua parte do projeto você utilizou que tecnologias? (HTML, CSS, JavaScript, PHP, Frameworks, MySql, outras ?)
+-HTML, CSS, PHP e MySql
+
+Ao desenvolver sua parte do projeto você utilizou Arrays?
+-Não
+
+Ao desenvolver sua parte do projeto você utilizou sessões?
+-Sim
+
+Ao desenvolver sua parte do projeto você utilizou cookies?
+-Não
+
+Ao desenvolver sua parte do projeto você utilizou Banco de dados?
+-Sim
+
+Ao desenvolver sua parte do projeto você utilizou upload de arquivos?
+-Não
+
+Ao desenvolver sua parte do projeto você utilizou algo diferente?
+-MD5
+
+Qual a sua avaliação sobre a qualidade do código?
+-Apesar do projeto precisar de melhorias em funcionalidade, o código que foi desenvolvido está funcional e de qualidade boa.
+
+
+Qual a sua avaliação sobre seu aprendizado a partir do projeto desenvolvido?
+-Muito bom, para aprender a conexão com o banco de dados, sessões para sistema com login e PHP em geral. Aprendizado de algo que vai ser muito útil.
